@@ -16,7 +16,9 @@ function isValid(str: string): boolean {
 
 export default function createCommands(client: Client) {
 	let prefix = 'fox!';
-	let prefixGuildMap = new Map<string | null, string>();
+	let prefixGuildMap = new Map<string, string>();
+
+	prefixGuildMap.set('standard', 'fox!');
 
 	return async function commands(message: Message) {
 		message.guild?.id
@@ -25,7 +27,7 @@ export default function createCommands(client: Client) {
 
 		let command = message.content.split(' ');
 
-		if (command[0] === (prefixGuildMap.get(message.guildId) ?? 'fox!')) {
+		if (command[0] === (prefixGuildMap.get(message.guildId ?? 'standard') ?? 'fox!')) {
 			if (command.length === 1) {
 				await message.channel.send(':fox::+1:');
 				return;
@@ -42,6 +44,11 @@ export default function createCommands(client: Client) {
 					break;
 				case 'prefix':
 					let gId = message.guildId;
+
+					if (!gId) {
+						await message.channel.send('Você não pode alterar o prefixo aqui!');
+						return;
+					}
 
 					if (!command[2]) await message.channel.send('Você esqueceu de especificar o prefixo!');
 					if (isValid(command[2])) {

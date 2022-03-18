@@ -1,4 +1,5 @@
 Esta política é válida a partir de Mar 2022.
+
 # Política de Privacidade - Rotfuchs-von-Vulpes
 
 Rotfuchs-von-Vulpes, pessoa jurídica de direito privado leva a sua privacidade a sério e zela pela segurança e proteção de dados de todos os seus clientes, parceiros, fornecedores e usuários das aplicações cujo código fonte esta aberto ao publico em https://github.com/Rotfuchs-von-Vulpes, e qualquer outro site ou aplicativo operado pelo desenvolvedor.
@@ -14,7 +15,8 @@ Esta Política de Privacidade fornece uma visão geral de nossas práticas de pr
 Além disso, a Política de Privacidade não se aplica a quaisquer aplicativos, produtos, serviços, site ou recursos de mídia social de terceiros que possam ser oferecidos ou acessados por meio da aplicação. O acesso a esses links fará com que você deixe o nosso site e poderá resultar na coleta ou compartilhamento de informações sobre você por terceiros. Nós não controlamos, endossamos ou fazemos quaisquer representações sobre sites de terceiros ou suas práticas de privacidade, que podem ser diferentes das nossas. Recomendamos que você revise a política de privacidade de qualquer site com o qual você interaja antes de permitir a coleta e o uso de seus Dados Pessoais.
 
 Caso você nos envie Dados Pessoais referentes a outras pessoas físicas, você declara ter a competência para fazê-lo e declara ter obtido o consentimento necessário para autorizar o uso de tais informações nos termos desta Política de Privacidade.
-Seção 1 - Definições
+
+## Seção 1 - Definições
 
 Para os fins desta Política de Privacidade:
 
@@ -30,15 +32,15 @@ Para os fins desta Política de Privacidade:
 
 Coletamos e usamos Dados Pessoais para gerenciar seu relacionamento conosco e melhor atendê-lo quando você estiver adquirindo produtos e/ou serviços na aplicação, personalizando e melhorando sua experiência. Exemplos de como usamos os dados incluem:
 
-    1.Viabilizar que você serviços na aplicação;
-    
-		2.Para confirmar ou corrigir as informações que temos sobre você;
-    
-		3.Para enviar informações que acreditamos ser do seu interesse;
-    
-		4.Para personalizar sua experiência de uso da aplicação;
-    
-		5.Para entrarmos em contato por uma tag. Por mensagens de texto (discord).
+    1.Viabilizar que você use serviços na aplicação;
+
+    2.Para confirmar ou corrigir as informações que temos sobre você;
+
+    3.Para enviar informações que acreditamos ser do seu interesse;
+
+    4.Para personalizar sua experiência de uso da aplicação;
+
+    5.Para entrarmos em contato por uma tag. Por mensagens de texto (discord).
 
 Além disso, os Dados Pessoais fornecidos também podem ser utilizados na forma que julgarmos necessária ou adequada: (a) nos termos das Leis de Proteção de Dados; (b) para atender exigências de processo judicial; (c) para cumprir decisão judicial, decisão regulatória ou decisão de autoridades competentes, incluindo autoridades fora do país de residência; (d) para aplicar nossos Termos e Condições de Uso; (e) para proteger nossas operações; (f) para proteger direitos, privacidade, segurança nossos, seus ou de terceiros; (g) para detectar e prevenir fraude; (h) permitir-nos usar as ações disponíveis ou limitar danos que venhamos a sofrer; e (i) de outros modos permitidos por lei.
 
@@ -57,9 +59,9 @@ No contato a aplicação, nós podemos coletar:
     2.Informações enviadas: informações que você envia via comandos (textos, imagens, reações, etc.).
 
 Na navegação geral na aplicação, nós poderemos coletar:
-    
+
     1.Preferências: informações sobre suas preferências e interesses em relação aos serviços (quando você nos diz o que eles são ou quando os deduzimos do que sabemos sobre você);
-    
+
     2.Dados anônimos ou agregados: respostas anônimas para pesquisas ou informações anônimas e agregadas sobre como a aplicação é usufruída. Durante nossas operações, em certos casos, aplicamos um processo de desidentificação ou pseudonimização aos seus dados para que seja razoavelmente improvável que você identifique você através do uso desses dados com a tecnologia disponível;
 
 Nós não coletamos Dados Pessoais Sensíveis.
@@ -71,7 +73,7 @@ Nós poderemos compartilhar seus Dados Pessoais:
     1.Com a(s) empresa(s) parceira(s) que você selecionar ou optar em enviar os seus dados, dúvidas, perguntas etc., bem como com provedores de serviços ou parceiros para gerenciar ou suportar certos aspectos de nossas operações comerciais em nosso nome. Esses provedores de serviços ou parceiros podem estar localizados nos Estados Unidos, na Argentina, no Brasil ou em outros locais globais, incluindo servidores para homologação e produção, e prestadores de serviços de hospedagem e armazenamento de dados, gerenciamento de fraudes, suporte ao cliente, atendimento de pedidos, personalização de conteúdo, atividades de publicidade e marketing (incluindo publicidade digital e personalizada) e serviços de TI, por exemplo;
 
     2.Com terceiros, com o objetivo de nos ajudar a gerenciar a aplicação;
-    
+
     3.Com terceiros, caso ocorra qualquer reorganização, fusão, venda, joint venture, cessão, transmissão ou transferência de toda ou parte da nossa empresa, ativo ou capital (incluindo os relativos à falência ou processos semelhantes).
 
 ## Seção 6 - Transferências internacionais de dados
@@ -84,9 +86,9 @@ Quando você visita a aplicação, ela pode armazenar ou recuperar informações
 
 De acordo com esta Política de Privacidade, nós e nossos prestadores de serviços terceirizados, mediante seu consentimento, podemos coletar seus Dados Pessoais de diversas formas, incluindo, entre outros:
 
-    1. Mensagens direcionadas aos bots (incluindo o privado), comandos via slash (barra [/]), reações, imagens e blocos de codigo. 
+    1. Mensagens direcionadas aos bots (incluindo o privado), comandos via slash (barra [/]), reações, imagens e blocos de codigo.
 
-		2. Não utilizamos cookies e seus dados não vão ser disponibilizados para membros comuns fora adiministradores,quando você concordou com os compartilhamento dos dados e pedidos judiciais.
+    	2. Não utilizamos cookies e seus dados não vão ser disponibilizados para membros comuns fora adiministradores, quando você concordou com os compartilhamento dos dados e pedidos judiciais.
 
 ## Seção 9 - Direitos do Usuário
 

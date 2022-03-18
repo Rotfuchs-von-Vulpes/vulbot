@@ -1,0 +1,17 @@
+* {
+  background-color: rgb(7, 7, 20);
+  color: whitesmoke;
+}
+
+body {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+h1, h2 {
+  font-family: arial;
+}
+
+li {
+  padding-bottom: 10px;
+}
