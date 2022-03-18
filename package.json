@@ -1,0 +1,25 @@
+{
+  "name": "vulbot",
+  "version": "0.0.1",
+  "description": "A simple bot for discord",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"not have a test\"",
+    "start": "ts-node-dev main.ts"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "discord.ts",
+    "typescript"
+  ],
+  "author": "Rotfuchs-von-Vulpes",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "discordx": "^9.4.2",
+    "dotenv": "^16.0.0",
+    "reflect-metadata": "^0.1.13",
+    "ts-node-dev": "^1.1.8"
+  }
+}
