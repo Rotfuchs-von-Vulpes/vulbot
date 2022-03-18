@@ -1,4 +1,4 @@
-# sample-gacha-bot
+# Vulbot
 Simple example for discord bot.
 
 **[NODEJS](https://nodejs.org/en/) and [TYPESCRIPT](https://www.typescriptlang.org/download) must be installed.**
