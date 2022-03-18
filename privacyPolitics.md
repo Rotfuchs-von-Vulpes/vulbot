@@ -1,7 +1,7 @@
 Esta política é válida a partir de Mar 2022.
 # Política de Privacidade - Rotfuchs-von-Vulpes
 
-Rotfuchs-von-Vulpes, pessoa jurídica de direito privado leva a sua privacidade a sério e zela pela segurança e proteção de dados de todos os seus clientes, parceiros, fornecedores e usuários do site domínio https://github.com/Rotfuchs-von-Vulpes e qualquer outro site ou aplicativo operado pelo desenvolvedor.
+Rotfuchs-von-Vulpes, pessoa jurídica de direito privado leva a sua privacidade a sério e zela pela segurança e proteção de dados de todos os seus clientes, parceiros, fornecedores e usuários das aplicações cujo código fonte esta aberto ao publico em https://github.com/Rotfuchs-von-Vulpes, e qualquer outro site ou aplicativo operado pelo desenvolvedor.
 
 Esta Política de Privacidade destina-se a informá-lo sobre o modo como nós utilizamos e divulgamos informações coletadas em suas visitas às nossas aplicações e em mensagens que trocamos com você.
 
