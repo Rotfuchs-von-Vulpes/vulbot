@@ -3,7 +3,7 @@ import 'reflect-metadata';
 import { Client } from 'discordx';
 import { Intents, Message } from 'discord.js';
 
-import createCommands from './commands';
+import getCommands from './commands';
 
 (async function start() {
 	const client = new Client({
@@ -15,7 +15,7 @@ import createCommands from './commands';
 		silent: false,
 	});
 
-	const commands = createCommands(client);
+	const commands = getCommands(client);
 
 	client.on('ready', async () => {
 		console.log(`Vulbot started ${client.user?.tag}`);
